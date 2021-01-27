@@ -8,6 +8,7 @@
     </head>
     <body>
         <h1>Prácticas Git</h1>
+        <p>Párrafo añadido desde GitHub</p>
     </body>
     <script src="js/javascripts.js"></script>
 </html>
